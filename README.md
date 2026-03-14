@@ -78,8 +78,8 @@ Notes:
 
 ### 1) Clone the repository
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/kashifsahilks906/Health-Risk-Predictor-Diabetes-Heart-Stroke-ML-Streamlit-App.git
+cd Health-Risk-Predictor-Diabetes-Heart-Stroke-ML-Streamlit-App
 ```
 
 ### 2) Create and activate a virtual environment (recommended)
